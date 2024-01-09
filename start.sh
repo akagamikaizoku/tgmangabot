@@ -1,5 +1,5 @@
 echo "Cloning Repo......"
-git clone 
+git clone "https://github.com/akagamikaizoku/tgmangabot.git"
 cd /tgmangabot
 pip3 install -r requirements.txt
 echo "Starting Bot...."
